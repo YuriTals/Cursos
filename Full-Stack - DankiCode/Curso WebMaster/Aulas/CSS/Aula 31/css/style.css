@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face{
+	font-family: "Open Sans";
+	src: url('../fonts/OpenSans-Light.ttf');
+}
+
+html,body{
+	height: 100%;
+	font-family: "Open Sans";
+}
+
+.box p{
+	font-family: "Minha Fonte" ;
+}
+
+.text{
+	font-family: tahoma !important; 
+}
+
+form *{
+	font-family: "Open Sans";
+}
